@@ -32,7 +32,7 @@ export default function Footer() {
         ))}
       </NavList>
       <Powered>
-        <p>@Igorbrands</p>
+        <p>by igorbrands and michaelsilva</p>
       </Powered>
     </Outer>
   );
