@@ -42,7 +42,7 @@ export default function Header({ simple, preview }) {
         <Link href="/">
           <a>
             <Logo>
-              <img src="/static/shop-logo.svg" alt="" />
+              <img src="static/logo-bw.svg" alt="Music Fans" />
             </Logo>
           </a>
         </Link>

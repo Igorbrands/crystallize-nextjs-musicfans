@@ -17,7 +17,7 @@ export default function Footer() {
       <Link href="/">
         <a>
           <Logo>
-            <img src="/static/shop-logo.svg" alt="" />
+            <img src="static/logo-bw.svg" alt="Music Fans" />
           </Logo>
         </a>
       </Link>
@@ -32,10 +32,7 @@ export default function Footer() {
         ))}
       </NavList>
       <Powered>
-        <p>{t('layout.ecomBy')}</p>
-        <a href="https://crystallize.com" aria-label="crystallize.com">
-          <LogoCrystallize size={10} />
-        </a>
+        <p>@Igorbrands</p>
       </Powered>
     </Outer>
   );
